@@ -5,6 +5,7 @@
 **Project type:** Machine-learning-based multiclass classification  
 **Deployment:** FastAPI REST API with Docker  
 **Model version:** 1.0.0
+
 **Live Application:** https://pulse-crop-recommendation-demo.streamlit.app/
 
 ## 1. Project Overview
