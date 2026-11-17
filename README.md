@@ -2,7 +2,7 @@
 
 ## Team Members (Participants of the project) 
 This project was developed collaboratively by Group 4 team members.
-1. Tsion Yohannes - Team Leader
+1. Tsion Yohanes - Team Leader
 2. Birhanu Simachew - Member
 3. Yeshiwas Tilahun - Member
 4. Maru Endale      - Member
@@ -341,7 +341,7 @@ The wider project submission includes:
 - API and Docker test evidence.
 ---
 
-**Project title:** Pulse Crop Recommendation Based on Soil and Climate Condition  
+**Project title:** Pulse Crop Recommendation System Based on Soil and Climate Condition  
 **System name:** Pulse Crop Recommendation  
 **Model version:** 1.0.0  
 **Project status:** Educational prototype
