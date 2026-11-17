@@ -1,6 +1,6 @@
-# Pulse Crop Recommendation Based System on Soil and Climate Conditions
+# Pulse Crop Recommendation System Based on Soil and Climate Conditions
 
-    ## Team Members 
+## Team Members (Participants of the project) 
 This project was developed collaboratively by Group 4 team members.
 1. Tsion Yohannes - Team Leader
 2. Birhanu Simachew - Member
