@@ -1,4 +1,13 @@
-# Pulse Crop Recommendation Based on Soil and Climate Condition
+# Pulse Crop Recommendation Based on Soil and Climate Conditions
+
+## Team Members 
+This project was developed collaboratively by Group 4 team members.
+1. Tsion Yohannes - Team Leader
+2. Birhanu Simachew - Member
+3. Yeshiwas Tilahun - Member
+4. Maru Endale      - Member
+5. Samuel Medhin    - Member
+6. Woldie Takele    - Member
 
 **System name:** Pulse Crop Recommendation  
 **Model:** Random Forest Classifier  
@@ -7,6 +16,7 @@
 **Model version:** 1.0.0
 
 **Live Application:** https://pulse-crop-recommendation-demo.streamlit.app/
+
 
 ## 1. Project Overview
 
@@ -329,11 +339,6 @@ The wider project submission includes:
 - `Data Statement.pdf` — dataset description, preparation, and limitations.
 - `Support and Improvement Plan.pdf` — proposed maintenance and improvement activities.
 - API and Docker test evidence.
-
-## 14. Team and Acknowledgement
-
-This project was developed collaboratively by Group 4. Team member names, role assignments, and individual contributions should be maintained in the portfolio package or repository documentation.
-
 ---
 
 **Project title:** Pulse Crop Recommendation Based on Soil and Climate Condition  
